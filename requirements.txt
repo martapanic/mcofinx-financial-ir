@@ -1,0 +1,8 @@
+python-terrier
+pyterrier-dr
+pandas
+numpy
+torch
+transformers
+matplotlib
+tqdm
